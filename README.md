@@ -1,9 +1,9 @@
-# Hi there, I'm Isoon Buatong<span type="placeholder" placeholder-type="person"></span> 👋
+# Hi there, I'm <span type="placeholder" placeholder-type="person">Isoon Buatong</span> 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
-- 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
+- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place">University of Phayao</span>**
+- 💡 Interested in **Software Engineering, Web Development**
+- 🎯 Current Goal: Learning Full-Stack Development 
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
 
 ---
@@ -11,8 +11,6 @@
 ### 🛠️ Tech Stack & Tools
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
